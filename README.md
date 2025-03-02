@@ -146,9 +146,6 @@ The top 5 highest spending orders were dominated by Italian dishes, reinforcing 
 - **Subqueries** (used in filtering and ranking queries)
 - **Grouping** (`GROUP BY` for category-based analysis)
 
-## How to Run the Queries
+## Acknowledgments
 
-1. Ensure you have a MySQL database installed.
-2. Create the `restaurant_db` schema.
-3. Import the dataset (`menu_items` and `order_details`).
-4. Run the queries using MySQL Workbench or any SQL client.
+This project was completed as part of a guided learning experience with **Maven Analytics**. Special thanks to Maven Analytics for providing structured guidance and high-quality datasets to enhance analytical skills.
